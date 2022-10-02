@@ -1,17 +1,12 @@
-<!-- <img src="https://raw.githubusercontent.com/shubhajit636
-/shubhajit636
-/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<!-- <img src="https://raw.githubusercontent.com/shubhajit636/shubhajit636/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
  -->
 <h2> Hey there! I'm Shubhajit.</h2>
 
 
 
-<a href="https://github.com/shubhajit636
-">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhajit636
-  &theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhajit636
-  &theme=dark&layout=compact" />
+<a href="https://github.com/shubhajit636">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhajit636&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhajit636&theme=dark&layout=compact" />
 </a>
 
 <br/>
@@ -26,6 +21,4 @@
 <!-- <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a> -->
 </p>
 
-⭐️ From [shubhajit636
-](https://github.com/shubhajit636
-)
+⭐️ From [shubhajit636](https://github.com/shubhajit636)
